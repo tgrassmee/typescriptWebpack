@@ -1,0 +1,8 @@
+html{
+    height:100%;
+}
+.bg-img {
+    background: url('https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2021/wallpaper-update/bmw-m5-cs-gallery-08.jpg/jcr:content/renditions/cq5dam.resized.img.890.medium.time1617719676768.jpg') no-repeat center top;
+    background-size: cover;
+    height:100vh;
+}
